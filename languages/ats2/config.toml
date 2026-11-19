@@ -1,0 +1,6 @@
+name = "ATS2"
+grammar = "ats2"
+path_suffixes = ["dats", "sats", "hats"]
+tab_size = 2
+hard_tabs = false
+line_comments = ["// "]
