@@ -7,4 +7,4 @@ description = "ATS2 syntax highlighting"
 
 [grammars.ats2]
 repository = "https://github.com/cutie-full-of-charm/zed-ats2"
-rev = "0416645bdccb970dc5499464bebe1421ba809c70"
+rev = "c850bc2dc49579e6ce2b696aeb82b320e49597fd"
