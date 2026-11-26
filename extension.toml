@@ -6,5 +6,5 @@ authors = ["Local"]
 description = "ATS2 syntax highlighting"
 
 [grammars.ats2]
-repository = "/home/qweqwe/Projects/zed-ats2/"
+repository = "https://github.com/cutie-full-of-charm/zed-ats2"
 rev = "0416645bdccb970dc5499464bebe1421ba809c70"
